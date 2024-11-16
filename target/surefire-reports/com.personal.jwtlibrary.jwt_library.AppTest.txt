@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.personal.jwtlibrary.jwt_library.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.195 s -- in com.personal.jwtlibrary.jwt_library.AppTest
